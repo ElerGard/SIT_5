@@ -1,0 +1,19 @@
+{
+    "name": "vendor/site_5",
+    "description": "nothing",
+    "type": "project",
+    "require": {
+        "twig/twig": "^3.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "Vendor\\Site5\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ElerGard",
+            "email": "norfick@mail.ru"
+        }
+    ]
+}
